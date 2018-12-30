@@ -1,0 +1,9 @@
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\bin\Debug\netcoreapp2.2\Ingresso.Domain.deps.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\bin\Debug\netcoreapp2.2\Ingresso.Domain.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.csprojAssemblyReference.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.AssemblyInfoInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.AssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\bin\Debug\netcoreapp2.2\Ingresso.Domain.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Domain\obj\Debug\netcoreapp2.2\Ingresso.Domain.pdb

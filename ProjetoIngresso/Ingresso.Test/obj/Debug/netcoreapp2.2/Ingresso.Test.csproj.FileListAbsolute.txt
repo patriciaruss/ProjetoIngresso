@@ -1,0 +1,14 @@
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Test.deps.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Test.runtimeconfig.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Test.runtimeconfig.dev.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Test.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Test.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.csprojAssemblyReference.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.csproj.CoreCompileInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.AssemblyInfoInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.AssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Test.pdb

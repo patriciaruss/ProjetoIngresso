@@ -1,0 +1,9 @@
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.deps.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.csprojAssemblyReference.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.csproj.CoreCompileInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.AssemblyInfoInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.AssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ingresso.Domain
+namespace Ingresso.Application
 {
     public class Class1
     {

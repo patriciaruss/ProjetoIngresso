@@ -1,0 +1,14 @@
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.deps.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csprojAssemblyReference.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csproj.CoreCompileInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.AssemblyInfoInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.AssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Domain.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Domain.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csproj.CopyComplete
