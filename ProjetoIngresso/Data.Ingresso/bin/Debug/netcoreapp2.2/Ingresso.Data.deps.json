@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "e9aeba88750c007308ff5aefc057db7b5e383e70"
+    "signature": "de370f8e491f93c355e22f0d2f46a2e1bdf1bd2a"
   },
   "compilationOptions": {},
   "targets": {
@@ -38,6 +38,50 @@
           "lib/netstandard1.3/DnsClient.dll": {
             "assemblyVersion": "1.0.7.0",
             "fileVersion": "1.0.7.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.WebApi.Client/4.0.20710": {
+        "dependencies": {
+          "Microsoft.Net.Http": "2.0.20710",
+          "Newtonsoft.Json": "7.0.1"
+        },
+        "runtime": {
+          "lib/net40/System.Net.Http.Formatting.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.20710.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.WebApi.Core/4.0.20710": {
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": "4.0.20710"
+        },
+        "runtime": {
+          "lib/net40/System.Web.Http.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.20710.0"
+          }
+        }
+      },
+      "Microsoft.AspNet.WebApi.WebHost/4.0.20710": {
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Core": "4.0.20710",
+          "Microsoft.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "lib/net40/System.Web.Http.WebHost.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.20710.0"
+          }
+        }
+      },
+      "Microsoft.Net.Http/2.0.20710": {},
+      "Microsoft.Web.Infrastructure/1.0.0": {
+        "runtime": {
+          "lib/net40/Microsoft.Web.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.20105.407"
           }
         }
       },
@@ -113,10 +157,37 @@
           }
         }
       },
+      "Newtonsoft.Json/7.0.1": {
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1.18622"
+          }
+        }
+      },
       "runtime.native.System/4.3.0": {},
       "runtime.native.System.Net.Http/4.0.1": {},
       "runtime.native.System.Net.Security/4.0.1": {},
       "runtime.native.System.Security.Cryptography/4.0.0": {},
+      "Swashbuckle/5.6.0": {
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.WebHost": "4.0.20710",
+          "Swashbuckle.Core": "5.6.0",
+          "WebActivatorEx": "2.0.0"
+        }
+      },
+      "Swashbuckle.Core/5.6.0": {
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Core": "4.0.20710",
+          "Newtonsoft.Json": "7.0.1"
+        },
+        "runtime": {
+          "lib/net40/Swashbuckle.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "System.Buffers/4.3.0": {
         "dependencies": {
           "System.Diagnostics.Debug": "4.3.0",
@@ -911,9 +982,21 @@
           "System.Runtime.Handles": "4.3.0"
         }
       },
+      "WebActivatorEx/2.0.0": {
+        "dependencies": {
+          "Microsoft.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "lib/net40/WebActivatorEx.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
       "Ingresso.Domain/1.0.0": {
         "dependencies": {
-          "MongoDB.Driver": "2.7.2"
+          "MongoDB.Driver": "2.7.2",
+          "Swashbuckle": "5.6.0"
         },
         "runtime": {
           "Ingresso.Domain.dll": {}
@@ -941,6 +1024,41 @@
       "sha512": "sha512-i6Imdyz+dvljMtQh1QtjMzguLEFFJCilecHiaRPIbNX4gK3zluf/3OQWD1XbVy5PXf1u394x5ImB+uu7DNMS1w==",
       "path": "dnsclient/1.0.7",
       "hashPath": "dnsclient.1.0.7.nupkg.sha512"
+    },
+    "Microsoft.AspNet.WebApi.Client/4.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+KrXp1ue2cKJzEdBm2tqDAskHk+mVFyfAXr6EGz9ZkWbevN2xjsWxX2PfVmpq4J83yIBu4KCscXFNURxS07p3g==",
+      "path": "microsoft.aspnet.webapi.client/4.0.20710",
+      "hashPath": "microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512"
+    },
+    "Microsoft.AspNet.WebApi.Core/4.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X188VBhKSs3mlDcUVPuOMv2+f6Kxg4xcEobtdFzJLCA5Q9z0oQ9qWTFgBtlN5vbx0bhlQRDD7P6krxLeiHsBgA==",
+      "path": "microsoft.aspnet.webapi.core/4.0.20710",
+      "hashPath": "microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512"
+    },
+    "Microsoft.AspNet.WebApi.WebHost/4.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rfDCy8t17L5974eoOmoC/VeuAAzLytK8rAtFd0BfaOUqCOWqysoLKzGOpA2tr13ZDbzPWuvVbe4B/GgE4+7+4w==",
+      "path": "microsoft.aspnet.webapi.webhost/4.0.20710",
+      "hashPath": "microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512"
+    },
+    "Microsoft.Net.Http/2.0.20710": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xgg1VruqviGSaFg5WBDQNOA5XpktSnFuVZiVttOqzg6bOLd2JyDz1GPySgzL1ewj9S/FWs8MEd540a47f95gpA==",
+      "path": "microsoft.net.http/2.0.20710",
+      "hashPath": "microsoft.net.http.2.0.20710.nupkg.sha512"
+    },
+    "Microsoft.Web.Infrastructure/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bk+FleE3WkOCB707+eD9npx38gvHCA4FikXSW1ETDa+A0IPrhPTWpu/nLGAGxkkXePVRB+nwjDY1ZOs5aE6YBg==",
+      "path": "microsoft.web.infrastructure/1.0.0",
+      "hashPath": "microsoft.web.infrastructure.1.0.0.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
@@ -977,6 +1095,13 @@
       "path": "mongodb.driver.core/2.7.2",
       "hashPath": "mongodb.driver.core.2.7.2.nupkg.sha512"
     },
+    "Newtonsoft.Json/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pAGHg015L10Zi3fHyK4PVmII65s2LfZ/Z71VlnhP0df0XJdyeu4QWs3E7XTCAgyvkw5yKDqhvG4iauG0eV+I7A==",
+      "path": "newtonsoft.json/7.0.1",
+      "hashPath": "newtonsoft.json.7.0.1.nupkg.sha512"
+    },
     "runtime.native.System/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -1004,6 +1129,20 @@
       "sha512": "sha512-2CQK0jmO6Eu7ZeMgD+LOFbNJSXHFVQbCJJkEyEwowh1SCgYnrn9W9RykMfpeeVGw7h4IBvYikzpGUlmZTUafJw==",
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "hashPath": "runtime.native.system.security.cryptography.4.0.0.nupkg.sha512"
+    },
+    "Swashbuckle/5.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZN+lLojS3uJm/0RB8VaFIMrNPfL+K8FS4QL9CsR+nU22QemERHoeIOEXyj9bdYXZa1PfZI4vhNzzt8V1uU29MQ==",
+      "path": "swashbuckle/5.6.0",
+      "hashPath": "swashbuckle.5.6.0.nupkg.sha512"
+    },
+    "Swashbuckle.Core/5.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z9vNASP0pxiRzs16dY8kTctUuKLD4ZpmUo8QGijE2p01Ne4fvKll1Oa6eEXZ5NxrBBrRN3SY9qWIkot5yvbt/Q==",
+      "path": "swashbuckle.core/5.6.0",
+      "hashPath": "swashbuckle.core.5.6.0.nupkg.sha512"
     },
     "System.Buffers/4.3.0": {
       "type": "package",
@@ -1431,6 +1570,13 @@
       "sha512": "sha512-k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "path": "system.threading.threadpool/4.3.0",
       "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
+    },
+    "WebActivatorEx/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tRjfE5uR1fnSJzWWpMRY2ZdsdA/+ItDz0TbrgVXGFM+32CFEPEXsikDraEPx/mfB6xZd9mDzwEGPkzI8M+bdGA==",
+      "path": "webactivatorex/2.0.0",
+      "hashPath": "webactivatorex.2.0.0.nupkg.sha512"
     },
     "Ingresso.Domain/1.0.0": {
       "type": "project",

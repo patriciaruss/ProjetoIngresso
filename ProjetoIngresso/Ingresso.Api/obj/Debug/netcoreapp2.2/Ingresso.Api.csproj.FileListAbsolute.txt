@@ -1,0 +1,14 @@
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\bin\Debug\netcoreapp2.2\Ingresso.Api.deps.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\bin\Debug\netcoreapp2.2\Ingresso.Api.runtimeconfig.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\bin\Debug\netcoreapp2.2\Ingresso.Api.runtimeconfig.dev.json
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\bin\Debug\netcoreapp2.2\Ingresso.Api.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.csprojAssemblyReference.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.csproj.CoreCompileInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.RazorAssemblyInfo.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.RazorAssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.AssemblyInfoInputs.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.AssemblyInfo.cs
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.RazorTargetAssemblyInfo.cache
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\bin\Debug\netcoreapp2.2\Ingresso.Api.pdb
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.dll
+D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Ingresso.Api\obj\Debug\netcoreapp2.2\Ingresso.Api.pdb
