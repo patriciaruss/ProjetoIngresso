@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Web\\Ingresso.Web.Api.csproj",
-      "projectName": "Ingresso.Web.Api",
-      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Web\\Ingresso.Web.Api.csproj",
+      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Api\\Ingresso.Api.csproj",
+      "projectName": "Ingresso.Api",
+      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Api\\Ingresso.Api.csproj",
       "packagesPath": "C:\\Users\\Russ\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Web\\obj\\",
+      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\ProjetoIngresso\\Ingresso.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

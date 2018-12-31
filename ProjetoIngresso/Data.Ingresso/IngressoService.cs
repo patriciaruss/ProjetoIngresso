@@ -1,5 +1,4 @@
-﻿using Ingresso.Domain;
-using MongoDB.Driver;
+﻿using MongoDB.Driver;
 using MongoDB.Bson;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
