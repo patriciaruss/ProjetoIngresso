@@ -1,0 +1,9 @@
+D:\Patricia\Src\Application.DTO\bin\Debug\netcoreapp2.1\Application.DTO.deps.json
+D:\Patricia\Src\Application.DTO\bin\Debug\netcoreapp2.1\Application.DTO.dll
+D:\Patricia\Src\Application.DTO\bin\Debug\netcoreapp2.1\Application.DTO.pdb
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.csprojAssemblyReference.cache
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.csproj.CoreCompileInputs.cache
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.AssemblyInfoInputs.cache
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.AssemblyInfo.cs
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.dll
+D:\Patricia\Src\Application.DTO\obj\Debug\netcoreapp2.1\Application.DTO.pdb

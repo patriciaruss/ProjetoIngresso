@@ -1,9 +1,0 @@
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.deps.json
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.dll
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.csprojAssemblyReference.cache
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.AssemblyInfo.cs
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.pdb
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.dll
-D:\ProjetoIngresso\ProjetoIngresso\ProjetoIngresso\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.pdb

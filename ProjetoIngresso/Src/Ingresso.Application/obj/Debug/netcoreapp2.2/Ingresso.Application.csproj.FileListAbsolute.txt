@@ -1,0 +1,16 @@
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.deps.json
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.dll
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Application.pdb
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Application.DTO.dll
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Data.dll
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Domain.dll
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Application.DTO.pdb
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Data.pdb
+D:\Patricia\Src\Ingresso.Application\bin\Debug\netcoreapp2.2\Ingresso.Domain.pdb
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.csprojAssemblyReference.cache
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.csproj.CoreCompileInputs.cache
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.AssemblyInfoInputs.cache
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.AssemblyInfo.cs
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.csproj.CopyComplete
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.dll
+D:\Patricia\Src\Ingresso.Application\obj\Debug\netcoreapp2.2\Ingresso.Application.pdb

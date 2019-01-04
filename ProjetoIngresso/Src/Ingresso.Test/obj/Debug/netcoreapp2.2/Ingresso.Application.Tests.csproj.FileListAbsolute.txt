@@ -1,0 +1,14 @@
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Application.Tests.deps.json
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Application.Tests.runtimeconfig.json
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Application.Tests.runtimeconfig.dev.json
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Application.Tests.dll
+D:\Patricia\Src\Ingresso.Test\bin\Debug\netcoreapp2.2\Ingresso.Application.Tests.pdb
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.csprojAssemblyReference.cache
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.csproj.CoreCompileInputs.cache
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.AssemblyInfoInputs.cache
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.AssemblyInfo.cs
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.dll
+D:\Patricia\Src\Ingresso.Test\obj\Debug\netcoreapp2.2\Ingresso.Application.Tests.pdb

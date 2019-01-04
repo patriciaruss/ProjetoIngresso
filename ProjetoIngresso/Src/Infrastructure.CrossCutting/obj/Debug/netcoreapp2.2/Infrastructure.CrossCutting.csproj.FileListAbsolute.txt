@@ -1,0 +1,9 @@
+D:\Patricia\Src\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.deps.json
+D:\Patricia\Src\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.dll
+D:\Patricia\Src\Infrastructure.CrossCutting\bin\Debug\netcoreapp2.2\Infrastructure.CrossCutting.pdb
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.csprojAssemblyReference.cache
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.AssemblyInfo.cs
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.dll
+D:\Patricia\Src\Infrastructure.CrossCutting\obj\Debug\netcoreapp2.2\Infrastructure.CrossCutting.pdb

@@ -1,0 +1,14 @@
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.deps.json
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.dll
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Data.pdb
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Domain.dll
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Ingresso.Domain.pdb
+D:\Patricia\Src\Data.Ingresso\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csprojAssemblyReference.cache
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csproj.CoreCompileInputs.cache
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.AssemblyInfoInputs.cache
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.AssemblyInfo.cs
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.csproj.CopyComplete
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.dll
+D:\Patricia\Src\Data.Ingresso\obj\Debug\netcoreapp2.2\Ingresso.Data.pdb
