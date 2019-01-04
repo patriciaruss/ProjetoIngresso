@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Patricia\\Src\\Ingresso.Application\\Ingresso.Application.csproj",
+      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Application\\Ingresso.Application.csproj",
       "projectName": "Ingresso.Application",
-      "projectPath": "D:\\Patricia\\Src\\Ingresso.Application\\Ingresso.Application.csproj",
+      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Application\\Ingresso.Application.csproj",
       "packagesPath": "C:\\Users\\Russ\\.nuget\\packages\\",
-      "outputPath": "D:\\Patricia\\Src\\Ingresso.Application\\obj\\",
+      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5749,14 +5749,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Patricia\\Src\\Application.DTO\\Application.DTO.csproj": {
-              "projectPath": "D:\\Patricia\\Src\\Application.DTO\\Application.DTO.csproj"
+            "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Application.DTO\\Application.DTO.csproj": {
+              "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Application.DTO\\Application.DTO.csproj"
             },
-            "D:\\Patricia\\Src\\Data.Ingresso\\Ingresso.Data.csproj": {
-              "projectPath": "D:\\Patricia\\Src\\Data.Ingresso\\Ingresso.Data.csproj"
+            "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Data.Ingresso\\Ingresso.Data.csproj": {
+              "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Data.Ingresso\\Ingresso.Data.csproj"
             },
-            "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj": {
-              "projectPath": "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj"
+            "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj": {
+              "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj"
             }
           }
         }

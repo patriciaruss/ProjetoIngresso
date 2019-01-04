@@ -5639,11 +5639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Patricia\\Src\\Data.Ingresso\\Ingresso.Data.csproj",
+      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Data.Ingresso\\Ingresso.Data.csproj",
       "projectName": "Ingresso.Data",
-      "projectPath": "D:\\Patricia\\Src\\Data.Ingresso\\Ingresso.Data.csproj",
+      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Data.Ingresso\\Ingresso.Data.csproj",
       "packagesPath": "C:\\Users\\Russ\\.nuget\\packages\\",
-      "outputPath": "D:\\Patricia\\Src\\Data.Ingresso\\obj\\",
+      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Data.Ingresso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5662,8 +5662,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj": {
-              "projectPath": "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj"
+            "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj": {
+              "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj"
             }
           }
         }

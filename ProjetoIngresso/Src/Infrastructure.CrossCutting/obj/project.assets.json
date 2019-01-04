@@ -7435,11 +7435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Patricia\\Src\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
       "projectName": "Infrastructure.CrossCutting",
-      "projectPath": "D:\\Patricia\\Src\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Russ\\.nuget\\packages\\",
-      "outputPath": "D:\\Patricia\\Src\\Infrastructure.CrossCutting\\obj\\",
+      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Infrastructure.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

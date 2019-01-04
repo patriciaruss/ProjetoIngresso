@@ -5378,11 +5378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj",
+      "projectUniqueName": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj",
       "projectName": "Ingresso.Domain",
-      "projectPath": "D:\\Patricia\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj",
+      "projectPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\Ingresso.Domain.csproj",
       "packagesPath": "C:\\Users\\Russ\\.nuget\\packages\\",
-      "outputPath": "D:\\Patricia\\Src\\Ingresso.Domain\\obj\\",
+      "outputPath": "D:\\ProjetoIngresso\\ProjetoIngresso\\Src\\Ingresso.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
